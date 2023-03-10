@@ -3,4 +3,4 @@
    
    Repositório apenas.
   
-  Destinado para  aprendizados iniciais do Git e o GitHub.
+  Destinado para **aprendizados iniciais do Git e o GitHub.**
