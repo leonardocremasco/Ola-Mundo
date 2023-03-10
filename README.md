@@ -3,4 +3,4 @@
    
    Repositório apenas.
   
-  Essa linha eu adicionei diretamente no site. QUE NEGÓCIO FODA!!!
+  Destinado para  aprendizados iniciais do Git e o GitHub.
